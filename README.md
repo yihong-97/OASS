@@ -17,5 +17,16 @@
         <sup>3</sup>Zhejiang University
 </p>
 
-
 The datasets and code are coming soon.
+
+## OASS Task
+<div align="left">
+  <img src="Img/OASS_Task.png" width="500"/>
+</div>
+
+## Datasets: BlendPASS
+<div align="left">
+  <img src="Img/BlendPASS.png" width="600"/>
+</div>
+
+
