@@ -29,4 +29,15 @@ The datasets and code are coming soon.
   <img src="Img/BlendPASS.png" width="600"/>
 </div>
 
+## 🤝 Publication:
+Please consider referencing this paper if you use the ```code``` or ```data``` from our work.
+Thanks a lot :)
 
+```
+@inproceedings{cao2024oass,
+  title={Occlusion-Aware Seamless Segmentation},
+  author={Yihong Cao and Jiaming Zhang and Hao Shi and Kunyu Peng and Yuhongxuan Zhang and Hui Zhang and Rainer Stiefelhagen and Kailun Yang},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2024}
+}
+```
