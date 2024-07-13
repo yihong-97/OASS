@@ -24,7 +24,7 @@
 
 ## Datasets
 ### [BlendPASS](https://github.com/yihong-97/BlendPASS)
-Considering the scalability of future work, we annotated 100 images containing 2,960 objects across various classes in the evaluation set, following the format of Cityscapes. For more details, please visit the [BlendPASS homepage](https://github.com/yihong-97/BlendPASS) or download directly here.
+Considering the scalability of future work, we annotated 100 images containing 2,960 objects across various classes in the evaluation set, following the format of Cityscapes. For more details, please visit the [BlendPASS homepage](https://github.com/yihong-97/BlendPASS) or download directly [here](https://drive.google.com/drive/folders/1t-dUjH4zeu4fBhtr6AbKULjnbSWKje0S?usp=sharing).
 <div align="left">
   <img src="Img/BlendPASS.png" width="600"/>
 </div>
