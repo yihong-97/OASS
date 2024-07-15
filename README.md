@@ -17,7 +17,7 @@
         <sup>3</sup>Zhejiang University
 </p>
 
-## [OASS Task](https://arxiv.org/pdf/2407.02182)
+## OASS Task [PDF](https://arxiv.org/pdf/2407.02182)
 <div align="left">
   <img src="Img/OASS_Task.png" width="500"/>
 </div>
