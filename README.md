@@ -1,6 +1,6 @@
 <p align="center">
 <h1 align="center"><strong>Occlusion-Aware Seamless Segmentation</strong></h1>
-<h3 align="center">ECCV 2024</h3>
+<h3 align="center">ECCV 2024 [[PDF]](https://arxiv.org/pdf/2407.02182)</h3>
 
 <p align="center">
     <a href="">Yihong Cao</a><sup>1*</sup>,</span>
@@ -17,7 +17,7 @@
         <sup>3</sup>Zhejiang University
 </p>
 
-## OASS Task [[PDF]](https://arxiv.org/pdf/2407.02182)
+## OASS Task
 <div align="left">
   <img src="Img/OASS_Task.png" width="500"/>
 </div>
