@@ -4,13 +4,13 @@
 
 <p align="center">
     <a>Yihong Cao</a><sup>1*</sup>,</span>
-    <a href="https://jamycheung.github.io/">Jiaming Zhang</a><sup>2*</sup>,
+    <a href="https://jamycheung.github.io">Jiaming Zhang</a><sup>2*</sup>,
     <a>Hao Shi</a><sup>3</sup>,
     <a>Kunyu Peng</a><sup>2</sup>,
     <a>Yuhongxuan Zhang</a><sup>1</sup>,
-    <a href="http://robotics.hnu.edu.cn/info/1071/1538.htm">Hui Zhang</a><sup>1†</sup>,
+    <a href="http://robotics.hnu.edu.cn/info/1176/2966.htm">Hui Zhang</a><sup>1†</sup>,
     <a href="https://cvhci.anthropomatik.kit.edu/~stiefel">Rainer Stiefelhagen</a><sup>2</sup>,
-    <a href="https://yangkailun.com/">Kailun Yang</a><sup>1†</sup>
+    <a href="https://yangkailun.com">Kailun Yang</a><sup>1†</sup>
     <br>
         <sup>1</sup>Hunan University,
         <sup>2</sup>Karlsruhe Institute of Technology,
