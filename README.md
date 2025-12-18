@@ -29,8 +29,10 @@ Considering the scalability of future work, we annotated 100 images containing 2
   <img src="Img/BlendPASS.png" width="600"/>
 </div>
 
-###  KITTI360-APS-to-BlendPASS
-Due to inconsistent class structures between KITTI360-APS and BlendPASS, we coarsely aligned the 8 class targets from BlendPASS to match the 7 classes in KITTI360-APS. The converted dataset can be downloaded directly [here](https://1drv.ms/u/s!AjiTZC2iQZJ-2YU6nSDOei_mYKyxsw?e=XrHvIW) (code: oass).
+### Conversion to BlendPASS Format
+Due to inconsistent class structures between BlendPASS (8 classes) and the source datasets (KITTI-360 APS and AmodalSynthDrive, each with 7 classes), we coarsely aligned the class labels to enable cross-dataset compatibility. The converted datasets are available for download:
+- KITTI-360 APS → BlendPASS: Download [here](https://drive.google.com/drive/folders/1T0GDze9s-aQw86PFzrKCSkxx4Un_Kd-A?usp=sharing)
+- AmodalSynthDrive → BlendPASS: Download [here](https://drive.google.com/drive/folders/1kGSEHhBHGeRJEtfpYHXye3N3Z8z3eHH5?usp=sharing)
 
 ## Usage
 ### Installation
